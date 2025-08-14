@@ -1,5 +1,4 @@
-<a href="https://ibb.co/DgQvdJBc"><img src="https://i.ibb.co/DgQvdJBc/a3fba9138cf54ad73956ccaa82f55f15.jpg" alt="a3fba9138cf54ad73956ccaa82f55f15" border="0"></a>
-
+<a href='https://ko-fi.com/O5O1180EK8' target='_blank'><img height='36' style='border:0px;height:20px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 # Ryan Studio (RyanStudioo)
 Hey there! I am RyanStudioo (RyanStudio was taken). I enjoy creating Discord Bots and other open-source modules!
 
