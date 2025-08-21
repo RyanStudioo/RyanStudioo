@@ -46,7 +46,7 @@ asyncio.run(main())
 # Skills
 
 ## Languages 
-[![Python](https://skillicons.dev/icons?i=py)](https://python.org)
+[![Python](https://skillicons.dev/icons?i=py)](https://python.org "Python")
 [![HTML](https://skillicons.dev/icons?i=html)](https://html.com/)
 [![CSS](https://skillicons.dev/icons?i=css)](https://devdocs.io/css/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
