@@ -47,13 +47,13 @@ asyncio.run(main())
 
 ## Languages 
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org "Python")
-[![HTML](https://skillicons.dev/icons?i=html)](https://html.com/)
-[![CSS](https://skillicons.dev/icons?i=css)](https://devdocs.io/css/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
-[![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://html.com/ "HTML")
+[![CSS](https://skillicons.dev/icons?i=css)](https://devdocs.io/css/ "CSS")
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com/ "JavaScript")
+[![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/ "Markdown")
 
 ## Applications and Frameworks
-[![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable)
-[![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com "Discord")
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable "Flask")
+[![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/ "Selenium")
 
