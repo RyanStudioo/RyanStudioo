@@ -2,6 +2,11 @@
 # Ryan Studio (RyanStudioo)
 Hey there! I am RyanStudioo (RyanStudio was taken). I enjoy creating Discord Bots and other open-source modules!
 
+<details>
+    <summary>Quick Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanstudioo&theme=tokyonight" alt="Language Stat">
+</details>
+
 # Favourite Projects
 
 ## [BlueMapWrapper](https://github.com/RyanStudioo/BlueMapWrapper)
