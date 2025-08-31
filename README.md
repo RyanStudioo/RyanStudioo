@@ -52,9 +52,10 @@ asyncio.run(main())
 
 ## Languages 
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org "Python")
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com/ "JavaScript")
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/ "Java")
 [![HTML](https://skillicons.dev/icons?i=html)](https://html.com/ "HTML")
 [![CSS](https://skillicons.dev/icons?i=css)](https://devdocs.io/css/ "CSS")
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com/ "JavaScript")
 [![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/ "Markdown")
 
 ## Applications and Frameworks
