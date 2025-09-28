@@ -1,52 +1,15 @@
-<a href='https://ko-fi.com/O5O1180EK8' target='_blank'><img height='36' style='border:0px;height:20px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 # Ryan Studio (RyanStudioo)
-Hey there! I am RyanStudioo (RyanStudio was taken). I enjoy creating Discord Bots and other open-source modules!
+Hey there! I am RyanStudioo (RyanStudio was taken). I enjoy programming in my free time!
+
+Check out my website here => https://ryanstudio.dev
 
 <details>
     <summary>Quick Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanstudioo&theme=tokyonight" alt="Language Stat">
 </details>
 
-# Favourite Projects
-
-## [BlueMapWrapper](https://github.com/RyanStudioo/BlueMapWrapper)
-BlueMapWrapper is a Pythonic lightweight API Wrapper for BlueMap!
-
-Example Code:
-~~~
-import BlueMapWrapper
-import datetime
-import time
-import asyncio
-
-async def main():
-    client = BlueMapWrapper.AsyncClient('http://map.eldrath.com:20098')   # Initialise Client
-    logged_players = []
-    while True:
-        start = time.time()
-        maps = await client.fetch_maps()   # Fetch list of available maps
-        players_collection = await client.fetch_player_collection(maps[0]) # Get Player Collection obj of online players
-
-        if players_collection.length == 0:
-            print(f"{datetime.datetime.now()} No players found.")
-        player_names = [i.name for i in players_collection.players]   # Get list of player names
-
-        for i in player_names:
-            if i not in logged_players:   # Check if player was in game when last logged
-                print(f"[{datetime.datetime.now()}] Player {i} joined the game")   # Print current time and player
-
-        for i in logged_players:
-            if i not in player_names:   # Check if any player in logged players left the game/went invisible
-                print(f"[{datetime.datetime.now()}] Player {i} left the game/went invisible")
-
-        logged_players = player_names   # Log current players available for next minute
-        seconds_until_next_minute = start+60 - time.time()   # Calculate time until next minute from starting
-        await asyncio.sleep(seconds_until_next_minute)   # Wait until 1 minute from loop start
-
-asyncio.run(main())
-~~~
-
-
+# Projects
+Check out projects I have done at https://ryanstudio.dev/projects/ !
 
 # Skills
 
@@ -56,10 +19,10 @@ asyncio.run(main())
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/ "Java")
 [![HTML](https://skillicons.dev/icons?i=html)](https://html.com/ "HTML")
 [![CSS](https://skillicons.dev/icons?i=css)](https://devdocs.io/css/ "CSS")
-[![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/ "Markdown")
 
-## Applications and Frameworks
+## Things I've used or something
 [![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com "Discord")
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable "Flask")
 [![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/ "Selenium")
-
+[![Sqlite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "Sqlite")
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
