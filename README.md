@@ -20,9 +20,14 @@ Check out projects I have done at https://ryanstudio.dev/projects/ !
 [![HTML](https://skillicons.dev/icons?i=html)](https://html.com/ "HTML")
 [![CSS](https://skillicons.dev/icons?i=css)](https://devdocs.io/css/ "CSS")
 
-## Things I've used or something
+## Development tools
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
+[![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/ "Gradle")
+
+## Frameworks, SDKs and APIs
 [![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com "Discord")
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable "Flask")
 [![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/ "Selenium")
 [![Sqlite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "Sqlite")
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/ "React")
+
